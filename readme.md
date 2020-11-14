@@ -41,6 +41,10 @@ _USE AT OWN RISK.ALL SCRIPTS COME AS IS_
 1. **32_stock_scraper.py**	Get stock prices
 1. **33_country_code.py**	Convert country code to country name
 1. **34_git_all_repos.py**	Clone all repositories from a public user or organization on Github. Usage:`python git_all_repos.py users USER_NAME` or `python git_all_repos.py orgs ORG_NAME`
- 
+ _____
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/ghost7god.svg?style=social&label=Follow%20%40ghost7god)](https://twitter.com/ghost7god)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org) ![1k STUDIOS](https://img.shields.io/badge/1k-STUDIOS-red.svg?style=for-the-badge) ![1K ALL_PRO_SYFER_](https://img.shields.io/badge/1K-ALL_PRO_SYFER_-red.svg?style=for-the-badge)
+
+
 
 
